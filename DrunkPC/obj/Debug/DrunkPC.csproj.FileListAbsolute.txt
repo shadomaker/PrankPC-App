@@ -1,0 +1,6 @@
+c:\users\ryan\documents\visual studio 2015\Projects\DrunkPC\DrunkPC\bin\Debug\DrunkPC.exe.config
+c:\users\ryan\documents\visual studio 2015\Projects\DrunkPC\DrunkPC\obj\Debug\DrunkPC.csprojResolveAssemblyReference.cache
+c:\users\ryan\documents\visual studio 2015\Projects\DrunkPC\DrunkPC\bin\Debug\DrunkPC.exe
+c:\users\ryan\documents\visual studio 2015\Projects\DrunkPC\DrunkPC\bin\Debug\DrunkPC.pdb
+c:\users\ryan\documents\visual studio 2015\Projects\DrunkPC\DrunkPC\obj\Debug\DrunkPC.exe
+c:\users\ryan\documents\visual studio 2015\Projects\DrunkPC\DrunkPC\obj\Debug\DrunkPC.pdb
